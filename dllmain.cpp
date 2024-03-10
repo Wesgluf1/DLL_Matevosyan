@@ -22,7 +22,7 @@ BOOL APIENTRY DllMain(HMODULE hModule,
 }
 
 void __stdcall Fullname(char* my_name) {
-    strcpy(my_name, "Matevosyan George Rubenovich \n");
+    strcpy(my_name, "Matevosyan George Rubenovich! \n");
 }
 
 int __stdcall GroupNum() {
