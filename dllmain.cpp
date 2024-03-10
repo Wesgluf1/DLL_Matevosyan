@@ -20,7 +20,7 @@ BOOL APIENTRY DllMain(HMODULE hModule,
     }
     return TRUE;
 }
-
+//branch 
 void __stdcall Fullname(char* my_name) {
     strcpy(my_name, "Matevosyan George Rubenovich \n");
 }
