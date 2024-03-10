@@ -1,0 +1,4 @@
+LIBRARY DLL_name
+EXPORTS
+	Fullname
+	GroupNum
